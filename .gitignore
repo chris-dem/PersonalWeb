@@ -25,3 +25,6 @@ yarn-error.log*
 
 .stack-work
 .vscode
+
+*.lock
+stack.yaml.lock
